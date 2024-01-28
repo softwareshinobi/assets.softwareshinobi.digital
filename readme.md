@@ -1,8 +1,8 @@
-# You Just Created A New Ubuntu Linux Server, Now What!?
-
-gonna put css and js and my handsome face in a central place.
+# gonna put css and js and my handsome face in a central place.
 
 knock yourself out and have fun.
+
+with love.
 
 ## namaste.
 
