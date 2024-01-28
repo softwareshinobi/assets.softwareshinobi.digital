@@ -1,4 +1,8 @@
-# gonna put css and js and my handsome face in a central place.
+# The Software Shinobi Assets
+
+gonna put css and js and my handsome face in a central place.
+
+![css, js, and my handsome face](imagery/softwareshinobi/cover-one.png)
 
 knock yourself out and have fun.
 
@@ -8,7 +12,7 @@ with love.
 
 ##########################################
 
-![Run This Provision Script On Every New Linux Server You Create](docs/imagery/cover.png)
+
 
 ## about this repository
 
